@@ -18,7 +18,9 @@ const io = new Server(server, {
     origin: [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://webrtc-based-real-time-communication.onrender.com",
+      // "https://webrtc-based-real-time-communication.onrender.com",
+      "https://webrtc-server-repo.onrender.com",
+      "https://web-rtc-client-repo.vercel.app",
     ],
     methods: ["GET", "POST"],
     allowedHeaders: ["Content-Type"],
