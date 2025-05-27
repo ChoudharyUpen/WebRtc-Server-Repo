@@ -1,27 +1,23 @@
-WebRTC Frontend Repository
-This is the Backend Repository of my WebRTC Project.
+# WebRTC Frontend Repository
 
-👉 Backend Repository: [WebRtc-Server-Repo](https://github.com/ChoudharyUpen/WebRtc-Client-Repo)
+This is the **Backend Repository** of my WebRTC Project.
 
-🚀 Backend Deployed on Render: [web-rtc-client-repo.vercel.app](https://webrtc-server-repo.onrender.com)
+👉 **Backend Repository**: [WebRtc-Server-Repo](https://github.com/ChoudharyUpen/WebRtc-Server-Repo)
 
-🛠️ Technologies Used
+🚀 **Backend Deployed on Render**: [web-rtc-client-repo.vercel.app](https://web-rtc-client-repo.vercel.app)
 
-Express – Web server framework
+---
 
-Socket.io – Real-time bidirectional communication (WebSockets)
+## 🛠️ Technologies Used
 
-WebRTC – Real-time peer-to-peer video/audio communication (signaling usually handled by Socket.io)
+- **Express** – Web server framework  
+- **Socket.io** – Real-time bidirectional communication (WebSockets)  
+- **WebRTC** – Real-time peer-to-peer video/audio communication (signaling usually handled by Socket.io)  
+- **dotenv** – Loads `.env` configuration files  
+- **cors** – Handles Cross-Origin Resource Sharing  
+- **nodemon** – Automatically restarts server on changes (development only)  
 
-dotenv – Loads .env configuration files
-
-cors – Handles Cross-Origin Resource Sharing
-
-nodemon – Automatically restarts server on changes (development only)
-
-
-
-
-
+---
 
 Thank you! ❤️
+
