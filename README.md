@@ -1,4 +1,4 @@
-# WebRTC Frontend Repository
+# WebRTC Backend Repository
 
 This is the **Backend Repository** of my WebRTC Project.
 
